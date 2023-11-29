@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ivan Krstev</h1>
 <h3 align="center">A passionate full stack developer from Macedonia</h3>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/ivankrstev">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-<a href="https://www.linkedin.com/in/ivankrstev">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ivankrstev" alt="GitHub Streak" /></a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
