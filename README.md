@@ -1,4 +1,4 @@
-# Welcome to Ivan's GitHub Profile! 👋
+# Ahoy! Embark on a coding adventure with Ivan's GitHub Profile! 👋
 
 ## About Me
 
